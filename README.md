@@ -1,5 +1,5 @@
 ### Fork Info
-Forked created by NAT2K15 to support his [Money System](https://github.com/NAT2K15/fivem-money-system). All credits goes to the orginal author. I have just edited a couple lines to help support my script and removed ESX.
+Forked created by ngomez093 to support Andyyy7666 Framework [ND_Core](https://github.com/ND-Framework/ND_Core). All credits goes to the orginal author. I have just edited a couple lines to help support ND Framework.
 
 ### Installation
 1) Download the latest version in the "code" tab on GitHub.
